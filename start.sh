@@ -12,5 +12,10 @@ sudo apt-get install
      docker-ce \
      ca-certificates \
      curl \
+     ansible 
      gnupg2 \
      software-properties-common
+     pdftk fonts-lmodern lmodern fig2ps make texlive-latex-recommended \
+	texlive-xetex texlive-latex-extra aspell aspell-en diction python3-pip \
+     
+     
